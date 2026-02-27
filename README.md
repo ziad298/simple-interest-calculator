@@ -13,3 +13,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 - Time: 2 years
 
 Result: 100
+Minor typo fix.
